@@ -61,7 +61,7 @@ Lets you inject a .css file for themeing. If this is all you need, this works ju
 
 As of now, it pretty much just the web version of Discord but it packages Goosemod for Chrome with it. 
 
-* https://github.com/kckarnige/armcord
+* https://github.com/ArmCord/ArmCord
 * License: MIT
 
 #### Goosemod for Chrome
