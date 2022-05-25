@@ -74,6 +74,5 @@ It's Goosemod but for Chrome :p
 
 ____
 
-# ![ss]([https://i.postimg.cc/wTm0YSwK/image.png](https://i.postimg.cc/3Nm462mP/image.png))
 
 Feel free to send corrections. I would like to note that I don't hate anyone involved with Lightcord except maybe Phorcys, he's kinda sus ngl.
