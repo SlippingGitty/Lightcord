@@ -31,7 +31,7 @@ Goosemod has a built-in store and support for custom repositories. Goosemod also
 * [FAQ and source](https://github.com/GooseMod/GooseMod/wiki/FAQ)
 * License: MIT
 
-#### Powercord
+#### Powercord (DEAD PROJECT, DONT USE)
 
 Powercord advertises itself to be a "lightweight mod focused on simplicity and performance". It supports plugins and themes. There is also a [plugin that allows you to use BetterDiscord plugins with it.](https://github.com/Juby210/bdCompat)
 
